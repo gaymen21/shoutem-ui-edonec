@@ -1,0 +1,17 @@
+node_modules
+.idea
+
+# Ignore test files
+*_tests_
+
+# Ignore the example apps
+examples/RestaurantsApp/
+examples/create-react-native-app/
+
+# Ignore local/config files
+.editorconfig
+.npmignore
+.gitignore
+
+# Ignore previous builds
+*.tgz
